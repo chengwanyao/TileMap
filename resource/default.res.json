@@ -1,0 +1,125 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,9_png,10_png,11_png,12_png,still2_png,still3_png,still4_png,9252150_112838236232_2_jpg,background_jpg,still1_png,01background_jpg,obscle_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "1_png",
+			"type": "image",
+			"url": "assets/1.png"
+		},
+		{
+			"name": "2_png",
+			"type": "image",
+			"url": "assets/2.png"
+		},
+		{
+			"name": "3_png",
+			"type": "image",
+			"url": "assets/3.png"
+		},
+		{
+			"name": "4_png",
+			"type": "image",
+			"url": "assets/4.png"
+		},
+		{
+			"name": "5_png",
+			"type": "image",
+			"url": "assets/5.png"
+		},
+		{
+			"name": "6_png",
+			"type": "image",
+			"url": "assets/6.png"
+		},
+		{
+			"name": "7_png",
+			"type": "image",
+			"url": "assets/7.png"
+		},
+		{
+			"name": "8_png",
+			"type": "image",
+			"url": "assets/8.png"
+		},
+		{
+			"name": "9_png",
+			"type": "image",
+			"url": "assets/9.png"
+		},
+		{
+			"name": "10_png",
+			"type": "image",
+			"url": "assets/10.png"
+		},
+		{
+			"name": "11_png",
+			"type": "image",
+			"url": "assets/11.png"
+		},
+		{
+			"name": "12_png",
+			"type": "image",
+			"url": "assets/12.png"
+		},
+		{
+			"name": "still2_png",
+			"type": "image",
+			"url": "assets/still2.png"
+		},
+		{
+			"name": "still3_png",
+			"type": "image",
+			"url": "assets/still3.png"
+		},
+		{
+			"name": "still4_png",
+			"type": "image",
+			"url": "assets/still4.png"
+		},
+		{
+			"name": "9252150_112838236232_2_jpg",
+			"type": "image",
+			"url": "assets/9252150_112838236232_2.jpg"
+		},
+		{
+			"name": "background_jpg",
+			"type": "image",
+			"url": "assets/background.jpg"
+		},
+		{
+			"name": "still1_png",
+			"type": "image",
+			"url": "assets/still1.png"
+		},
+		{
+			"name": "01background_jpg",
+			"type": "image",
+			"url": "assets/01background.jpg"
+		},
+		{
+			"name": "obscle_png",
+			"type": "image",
+			"url": "assets/obscle.png"
+		}
+	]
+}
